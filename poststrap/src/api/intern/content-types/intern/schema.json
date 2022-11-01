@@ -46,6 +46,10 @@
     "date": {
       "type": "date",
       "required": true
+    },
+    "email": {
+      "type": "email",
+      "required": false
     }
   }
 }
